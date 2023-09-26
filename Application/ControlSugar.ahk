@@ -1,0 +1,28 @@
+﻿Reload(){
+	Suspend,Permit
+	Reload
+}
+Suspend(){
+	Suspend
+}
+Pause(){
+	Pause
+}
+ExitApp(){
+	ExitApp
+}
+Edit(){
+	Edit
+}
+KeyHistory(){
+	KeyHistory
+}
+ListLines(){
+	ListLines
+}
+ListVars(){
+	ListVars
+}
+ListHotkeys(){
+	ListHotkeys
+}
